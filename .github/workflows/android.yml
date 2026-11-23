@@ -54,3 +54,4 @@ jobs:
           name: SVG-Studio-APK
           path: android/app/build/outputs/apk/debug/app-debug.apk
           if-no-files-found: error
+          
